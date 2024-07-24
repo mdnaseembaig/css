@@ -1,1 +1,55 @@
-jddsv
+*{
+    color: blue;
+ }
+h1 {
+    color: green;
+}
+
+p{
+    color: brown;
+}
+
+button{
+    color: rgb(67, 224, 117);
+}
+ body{
+    background-color: rgb(10, 14, 9);
+ }
+
+ button{
+    background-color: #66166b;
+ }
+
+ #headingone{
+    color: yellow;
+ }
+ #headingtwo{
+    color: rgb(171, 29, 46);
+ }
+ #headingthree{
+    color: rgb(49, 23, 147);
+ }
+ #headingfour{
+    color: rgb(33, 193, 62);
+ }
+ #myclass{
+    color: blueviolet;
+ }
+ #box{
+    color: blueviolet;
+ }
+ /*.heading{
+    color: aliceblue;
+ }*/
+ h1,h2,h3{
+    color: blueviolet;
+ }
+ p{
+    text-align: right;
+ }
+ h1{
+    text-align: center;
+    text-decoration: underline;
+    text-decoration: overline;
+    text-decoration: line-through;
+ }
