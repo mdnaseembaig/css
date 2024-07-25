@@ -1,0 +1,25 @@
+p{
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+#one{
+    font-family: arial;
+}
+#Two {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#one{
+    font-size: 40px;
+    line-height: normal;
+    text-transform: uppercase;
+}
+#two {
+    font-size: 10px;
+}
+#three{
+    font-size: 20px;
+}
