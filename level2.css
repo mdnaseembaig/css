@@ -1,21 +1,12 @@
 div {
     height: 100px;
     width: 100px;
-    background-color: blue;
-    border-width: 2px ;
-    border-style: solid;
-    border-color: brown;
-    text-align: right;
-}
+    background-color: yellow;
+    border: 2px solid blue;
+    /*border-radius: 30%;*/
+    /*padding-bottom: 65px ;
+    padding-bottom: 65px;*/
+    padding: 25px;
+    margin-top: 50px ;
 
-h1 {
-    width: 200px;
-    height: 50px;
-    background-color: orange;
-    border-width:  5px;
-    border-style: dashed;
-    border-color: blanchedalmond;
-    border: 3px dashed red;
-    text-align: center;
 
-}
